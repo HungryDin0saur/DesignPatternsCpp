@@ -1,0 +1,8 @@
+Singletone
+Command
+Flyweight
+Observer
+Prototype
+State
+Strategy
+Decorator
